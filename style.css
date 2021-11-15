@@ -1,0 +1,46 @@
+.days1{
+    list-style-type: square;
+    margin-top: 0px;
+    margin-left: 20px;
+    line-height: 1.4em;
+}
+.child{
+    text-transform: uppercase;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+.child2{
+    text-transform: uppercase;
+    margin-top: 0px;
+    margin-left: 20px;
+}
+.months{
+    list-style-type: lower-roman;
+    margin-top: 0px;
+    margin-left: 20px;
+    line-height: 1.4em;
+}
+.child3{
+    text-transform: uppercase;
+    margin-left: 20px;
+}
+.child31{
+    margin-top: 0px;
+    margin-left: 60px;
+    margin-bottom: 0px;
+}
+.s1{
+    margin-left: 40px;
+    margin-top: 0px;
+}
+.image{
+    display: inline-block;
+    border: 1px lightblue;
+    height: auto;
+}
+div img{
+    float: right;
+}
+div p{
+    font-size: 1.5em;
+}
